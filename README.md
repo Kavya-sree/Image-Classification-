@@ -1,4 +1,4 @@
-# Image-Classification-
+# Custom-Image-Classification
 Multi-class image classification
 
 Objective:
